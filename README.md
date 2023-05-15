@@ -1,6 +1,5 @@
 # ecommerce
-A README that documents how to set up and run the application, how you approached
-it and what you would improve.
+Barebones version of an API for purchasing watches. Current version only supports sending a list of watch IDs
 
 ## System
 Spring Boot 2.7
